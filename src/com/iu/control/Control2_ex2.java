@@ -16,7 +16,7 @@ public class Control2_ex2 {
 		
 		
 		System.out.println("알파벳을 입력");
-		char ch = sc.next().charAt(0);
+		ch = sc.next().charAt(0);
 		
 		ch = (char)(ch+num);
 		System.out.println("ch : " + ch);
