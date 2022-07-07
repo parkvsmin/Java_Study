@@ -31,6 +31,8 @@ public class Control2_ex2 {
 		}
 		
 		//Study Edition
+		//Home Edition
+
 		
 		
 		
