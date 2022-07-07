@@ -20,14 +20,13 @@ public class Control2_ex2 {
 		
 		ch = (char)(ch+num);
 		System.out.println("ch : " + ch);
-		// num :1 ch1 :a 출력 b
-		// num :2 ch1 :a 출력 c
-		// num :1 ch1 :z 출력 a
-		// num :2 ch1 :z 출력 b
+		// num :1 ch :a 출력 b
+		// num :2 ch :a 출력 c
+		// num :1 ch :z 출력 a
+		// num :2 ch :z 출력 b
 		
 		System.out.println("알파벳을 출력");
 		
-		if()
 		
 		
 		
