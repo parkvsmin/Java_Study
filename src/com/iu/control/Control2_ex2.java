@@ -11,12 +11,11 @@ public class Control2_ex2 {
 		char ch = ' '; // => b
 		
 		Scanner sc = new Scanner (System.in);
-		System.out.println("1-5 사이의 숫자 입력");
 		num = sc.nextInt(); // 1-5;
+		System.out.println("1-5 사이의 숫자 입력");
 		
-		
+		ch = sc.nextLine().charAt(0);
 		System.out.println("알파벳을 입력");
-		ch = sc.next().charAt(0);
 		
 		ch = (char)(ch+num);
 		System.out.println("ch : " + ch);
@@ -27,6 +26,11 @@ public class Control2_ex2 {
 		
 		System.out.println("알파벳을 출력");
 		
+		if((ch>=97) & (ch<=122)); {
+			System.out.println("소문자");
+		}
+		
+		//Study Edition
 		
 		
 		
