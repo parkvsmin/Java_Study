@@ -30,6 +30,8 @@ public class Control2_ex2 {
 			System.out.println("소문자");
 		}
 		
+		//Home Edition
+		
 		
 		
 		
