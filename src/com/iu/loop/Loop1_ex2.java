@@ -43,7 +43,7 @@ public class Loop1_ex2 {
 		int sum = 0; //합을 담을 변수
 		
 		for(int start=1; start<=10; start++) {
-			sum =sum+start;
+			sum += start;
 		}
 		System.out.println("1~10까지의 합 구하기 : " + sum);
 		
