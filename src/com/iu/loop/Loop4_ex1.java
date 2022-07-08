@@ -9,9 +9,9 @@ public class Loop4_ex1 {
 		//ex) 1, 15
 		Scanner sc = new Scanner(System.in);
 		System.out.println("분 입력");
-		int minute = sc.nextInt();  
+		int minute = sc.nextInt(); //1 
 		System.out.println("초 입력");
-		int second = sc.nextInt();
+		int second = sc.nextInt(); //15
 		
 		for(int m=0;m<60;m++) {
 			for(int s=0;s<60;s++) {
