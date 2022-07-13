@@ -28,6 +28,9 @@ public class Array_1 {
 		System.out.println(names[0]);
 		System.out.println(names[1]);
 		
+		String a = "1";
+		
+		
 	}
 
 }

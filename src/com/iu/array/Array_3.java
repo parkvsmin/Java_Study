@@ -10,6 +10,9 @@ public class Array_3 {
 		
 		int [] nums2 = nums;
 		System.out.println(nums2[2]);
+		
+		System.out.println(nums);
+		System.out.println(nums2);
 
 	}
 
